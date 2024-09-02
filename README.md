@@ -1,0 +1,1 @@
+# rijalResolusi2024
