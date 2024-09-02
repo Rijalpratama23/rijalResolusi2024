@@ -1,0 +1,8 @@
+Perencanan belajar bahasa Pemrograman :
+ * HTML
+ * CSS
+ * Bootsrap
+ * JavaSript
+ * NodeJS
+ * Python
+ * Java
