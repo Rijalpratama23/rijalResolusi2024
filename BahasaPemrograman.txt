@@ -1,9 +1,12 @@
 Perencanan belajar bahasa Pemrograman :
- * HTML
- * CSS
- * JavaSript
- * Python
- * Java
-
-catatan : Belajarlah dengan sungguh-sungguh Karena 
-          "Usaha Tidak akan Pernah Menghianati Hasil"!!!!!
+Memahami Fundamental Coding:
+ 1. Algoritma dan Struktur data 
+ 2. Logika Informatika
+ 3. Dasar Pemrograman
+   * HTML
+   * CSS
+   * Bootsrap
+   * JavaSript
+   * NodeJS
+   * Python
+   * Java
