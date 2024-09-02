@@ -1,8 +1,9 @@
 Perencanan belajar bahasa Pemrograman :
  * HTML
  * CSS
- * Bootsrap
  * JavaSript
- * NodeJS
  * Python
  * Java
+
+catatan : Belajarlah dengan sungguh-sungguh Karena 
+          "Usaha Tidak akan Pernah Menghianati Hasil"!!!!!
